@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 section{
+   
     height: 500px;
     padding-bottom: 50px
 }
@@ -21,6 +22,7 @@ section{
     
 }
 .half-width{
+    width: 20%;
     float: left;
     margin: 5px 0px 10px 350px
     
@@ -65,8 +67,9 @@ text-align: center;
 .float
 {
     float: left;
-    margin-right: 50px ;
-    margin-left: 55px;
+    
+    margin-left: 100px;
+    width: 25%;
 }
 #last
 {
@@ -112,5 +115,9 @@ text-align: center;
 {
 
 text-align: center;
+}
+.up-img
+{
+    width: 100%;
 }
 
